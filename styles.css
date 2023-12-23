@@ -934,8 +934,8 @@ body {
 }
 .text-1{
   position: absolute;
-  top: 200px;
-  left: 150px;
+  top: 25%;
+  left: 0px;
   color: #a1ef5c;
   font-family: 'Mountains of Christmas';
 }
